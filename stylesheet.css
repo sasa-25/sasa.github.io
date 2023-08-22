@@ -1,0 +1,12 @@
+
+td {
+   color: black;
+   text-align: center; 
+   width: 100px;
+   margin: 15px 50px;
+   background-color: #87cefa;
+}
+th {
+   background-color: #4169e1;
+   color: white;
+}
